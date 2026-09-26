@@ -7,5 +7,5 @@ Portfolio of projects from my Data Visualization course. This will include the c
 **Account Profitability and Service Tiers:** Analyze customer profitability to determine how Southwest Office Solutions should adjust its account strategy, with a focus on the relationship between discounting and net contribution (https://public.tableau.com/views/AdvancinginExcelPt_2/AppliedChart-DiscountPolicy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would investigate the individual accounts receiving 20% or higher discounts to better understand what is driving their lower profitability. 
 
 
-**Certification: Introduction to Power BI:** MIS 561, 9/25/2026 (https://public.tableau.com/views/PowerBITrainingCertifications_17903843295320/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+**Certification - Introduction to Power BI:** MIS 561, 9/25/2026 (https://public.tableau.com/views/PowerBITrainingCertifications_17903843295320/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
