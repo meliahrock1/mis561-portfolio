@@ -1,7 +1,7 @@
 # mis561-portfolio
 Portfolio of projects from my Data Visualization course. This will include the completion of assignments in Excel, Tableau, Power BI through DataCamp, Adobe Express, and various AI tools. 
 
-**Initial E-Commerce Profitability Analysis:** Develop a basic profitability set of dashboards to explain your design, (https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_1_17890794297580/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would investigate another Subcategory that wasn't the obvious choice. 
+**Initial E-Commerce Profitability Analysis:** Develop a basic profitability set of dashboards to explain your design (https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_1_17890794297580/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would investigate another Subcategory that wasn't the obvious choice. 
 
 
 **Account Profitability and Service Tiers:** Analyze customer profitability to determine how Southwest Office Solutions should adjust its account strategy, with a focus on the relationship between discounting and net contribution (https://public.tableau.com/views/AdvancinginExcelPt_2/AppliedChart-DiscountPolicy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would investigate the individual accounts receiving 20% or higher discounts to better understand what is driving their lower profitability. 
@@ -14,3 +14,15 @@ In the course's previous Excel work, I had to manually clean and transform data 
 **Certification - Introduction to DAX in Power BI:** MIS 561, 9/28/2026 (https://public.tableau.com/views/PowerBITrainingCertifications_17903843295320/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 In my first analysis, I used an Excel pivot table to manually summarize the average three-year growth rate for each industry after joining and formatting the underlying data. In Power BI, I would create the average three-year growth rate as a measure because it can automatically recalculate based on the industry or other filters selected in the report. This would be especially useful as the dataset changes because I would not have to rebuild the pivot table or create separate summaries for different views of the data. Instead, the business user could interact with the report and answer different questions using the same measure without needing me to create a new analysis each time.
+
+**Certification - Data Visualization in Power BI:** MIS 561, 10/6/2026 (https://public.tableau.com/views/PowerBITrainingCertifications_17903843295320/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Sarah, through my work analyzing Southwest’s profitability and account performance, and by completing Power BI training, I have developed a stronger understanding of how to turn data into actionable information to support business decisions. In Flex 3, I identified Tables as the largest losing subcategory, with a total loss of $16,937.44. Using Power BI’s conditional formatting, I could rebuild this analysis to automatically highlight unprofitable subcategories as the data changes, helping Anita identify which products need attention without manually reviewing each result. 
+
+In Flex 4, I found that accounts receiving average discounts of 20% or more generated a combined net loss of $67,756. By creating DAX measures for net contribution and profitability, Marcus could filter results by customer segment or service tier and evaluate whether these patterns hold across different account groups. 
+
+I would continue using Excel for smaller calculations and initial data exploration, Tableau for presenting focused findings to executives, and Power BI for recurring reports that require updated calculations and interactive analysis. While I understand the fundamentals of Power BI, I still need more experience working with real business datasets and publishing reports through Power BI. I would build on these skills by developing and maintaining a report using regularly updated data.
+
+
+
+
