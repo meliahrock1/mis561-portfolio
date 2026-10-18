@@ -3,9 +3,7 @@ Portfolio of projects from my Data Visualization course. This will include the c
 
 **Initial E-Commerce Profitability Analysis:** Develop a basic profitability set of dashboards to explain your design (https://public.tableau.com/views/AdvancinginExcelandTableau-Pt_1_17890794297580/ExplanatoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would investigate another Subcategory that wasn't the obvious choice. 
 
-
 **Account Profitability and Service Tiers:** Analyze customer profitability to determine how Southwest Office Solutions should adjust its account strategy, with a focus on the relationship between discounting and net contribution (https://public.tableau.com/views/AdvancinginExcelPt_2/AppliedChart-DiscountPolicy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). If I were doing this again, I would investigate the individual accounts receiving 20% or higher discounts to better understand what is driving their lower profitability. 
-
 
 **Certification - Introduction to Power BI:** MIS 561, 9/26/2026 (https://public.tableau.com/views/PowerBITrainingCertifications_17903843295320/PowerBIStory?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -23,6 +21,6 @@ In Flex 4, I found that accounts receiving average discounts of 20% or more gene
 
 I would continue using Excel for smaller calculations and initial data exploration, Tableau for presenting focused findings to executives, and Power BI for recurring reports that require updated calculations and interactive analysis. While I understand the fundamentals of Power BI, I still need more experience working with real business datasets and publishing reports through Power BI. I would build on these skills by developing and maintaining a report using regularly updated data.
 
-
+**Card Portfolio Review - Contactless Readiness**: Analyze Bear Down Bank's card portfolio to determine which non-contactless cards should be prioritized for early replacement while minimizing unnecessary costs ([Tableau Dashboard](https://public.tableau.com/views/AdvancinginExcelandTableauP3/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)). If I were doing this again, I would incorporate card usage data to identify which customers rely most heavily on non-contactless cards and better prioritize replacements based on customer impact.
 
 
