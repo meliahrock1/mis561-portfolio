@@ -25,3 +25,10 @@ I would continue using Excel for smaller calculations and initial data explorati
 
 **Credit Growth Analysis - Wildcat Rewards Offer:** Analyze Bear Down Bank's customer and credit card data to determine which eligible customer segment should be prioritized for the Wildcat Rewards pilot mailing based on eligibility rates, customer concentration, and growth potential ([Tableau Dashboard](https://public.tableau.com/views/AdvancinginExcelandTableauP4/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)). If I were doing this again, I would incorporate historical credit card offer acceptance and spending data to better predict which eligible customers are most likely to respond and generate long-term value for the bank.
 
+**Oct 29, 2026 · Data Storytelling with Adobe Express**
+Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: prioritize early replacement of 211 non-contactless cards for $1,688, while letting the remaining 1,482 cards follow their normal replacement cycle. 
+
+[Work sample (PDF)](https://github.com/meliahrock1/mis561-portfolio/blob/main/adobe/rock-data-storytelling.pdf) · [Adobe Express](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:fd6365e8-9f56-57dc-9597-a4c57a834b39?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+Design choice: I used a horizontal bar chart to compare card expiration windows, highlighting the 211 cards that should be replaced early rather than making the executive interpret a more detailed Tableau dashboard. I removed the original dashboard's navigation buttons and unnecessary chart formatting (waterfall chart), allowing the replacement cost and recommended batch size to stand out as the two most important figures. 
+
+Training completed: Oct 29, 2026
