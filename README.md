@@ -32,3 +32,7 @@ Work sample for Renee Castillo, Director of Card Operations at Bear Down Bank: p
 Design choice: I used a horizontal bar chart to compare card expiration windows, highlighting the 211 cards that should be replaced early rather than making the executive interpret a more detailed Tableau dashboard. I removed the original dashboard's navigation buttons and unnecessary chart formatting (waterfall chart), allowing the replacement cost and recommended batch size to stand out as the two most important figures. 
 
 Training completed: Oct 29, 2026
+
+**AI Use Disclosure:** I used OpenAI's ChatGPT (GPT-6) on October 29, 2026, to develop my consulting firm's brand identity, refine the layout and visual hierarchy of my Adobe Express executive brief, and assist with writing my design justification. I based all figures and recommendations on my previous Tableau analysis and created the final visual in Adobe Express.
+
+OpenAI. (2026). *ChatGPT* (GPT-6) [Large language model]. https://chatgpt.com/
