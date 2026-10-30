@@ -25,4 +25,3 @@ I would continue using Excel for smaller calculations and initial data explorati
 
 **Credit Growth Analysis - Wildcat Rewards Offer:** Analyze Bear Down Bank's customer and credit card data to determine which eligible customer segment should be prioritized for the Wildcat Rewards pilot mailing based on eligibility rates, customer concentration, and growth potential ([Tableau Dashboard](https://public.tableau.com/views/AdvancinginExcelandTableauP4/ExploratoryDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)). If I were doing this again, I would incorporate historical credit card offer acceptance and spending data to better predict which eligible customers are most likely to respond and generate long-term value for the bank.
 
-
