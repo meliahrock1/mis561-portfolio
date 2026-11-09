@@ -36,3 +36,17 @@ Training completed: Oct 29, 2026
 **AI Use Disclosure:** I used OpenAI's ChatGPT (GPT-6) on October 29, 2026, to develop my consulting firm's brand identity, refine the layout and visual hierarchy of my Adobe Express executive brief, and assist with writing my design justification. I based all figures and recommendations on my previous Tableau analysis and created the final visual in Adobe Express.
 
 OpenAI. (2026). *ChatGPT* (GPT-6) [Large language model]. https://chatgpt.com/
+
+**Nov 9, 2026 · Product Pitch with Generative AI in Adobe Express**
+Pitch to Renee Castillo, Director of Card Operations at Bear Down Bank, requesting approval for a six-week planning engagement to validate the proposed 211-card early replacement opportunity and develop a cost-conscious modernization roadmap.
+
+[Pitch deck (PDF)](https://github.com/meliahrock1/mis561-portfolio/blob/main/adobe/rock-product-pitch.pdf) · [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:US:09b12328-ecf8-4097-8586-ea3acc39b4d3?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: "Why hire consultants for a $1,688 replacement batch?" Slide 7 addresses this by explaining that the engagement is about more than replacing 211 cards. The goal is to create a repeatable prioritization framework that Bear Down Bank can use to evaluate future replacement decisions, rather than making a one-time recommendation.
+
+Training completed: Nov 6, 2026
+
+**AI Use Disclosure:** OpenAI ChatGPT (GPT-6), November 2026 — assisted with slide structure, wording, design feedback, assignment rubric review, and identification and refinement of the executive objection addressed on Slide 7.
+
+OpenAI. (2026). *ChatGPT* (GPT-6) [Large language model]. https://chatgpt.com/
+
