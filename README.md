@@ -54,7 +54,7 @@ OpenAI. (2026). *ChatGPT* (GPT-6) [Large language model]. https://chatgpt.com/
 
 Rebranded a public IMDb movie dashboard, then built a brief for Alicia Grant, Manager of Advertiser Partnerships, to answer one question: Do G, PG, and PG-13 movies draw enough engagement compared with R-rated movies to justify their own ad package?
 
-[Tableau Workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17953002117930/DataMoviesIMDBDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Workbook](https://public.tableau.com:9443/views/DataPlusMovies2000-2023_17953002117930/DataMoviesIMDBDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 One thing I’d change: I’d set both charts to the same 0–100% scale so readers could compare the bars across charts as easily as they can compare the percentages.
 
